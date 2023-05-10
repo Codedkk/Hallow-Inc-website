@@ -1292,11 +1292,11 @@ border-radius: .5rem;
     background: var(--container-color);
 }
 
-.active__link {
+.active-link {
     position: relative;
 }
 
-.active__link::before {
+.active-link::before {
     content: '';
     position: absolute;
     width: 5px;
